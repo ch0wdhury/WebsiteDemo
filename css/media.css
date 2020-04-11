@@ -1,0 +1,137 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	.fixed-top {
+		padding: 10px 5px;
+	}
+	.custom-slider img {
+		height: 200px;
+	}
+	.common-title {
+		margin-bottom: 20px;
+	}
+	.common-title h2 {
+	    font-size: 30px;
+	}
+	.common-title p {
+	    font-size: 14px;
+	}
+	.service-content {
+		margin-top: 30px;
+	}
+	.owl-carousel img {
+		width: 40%!important;
+	}	
+	.testimonial-body {
+		width: 95%;
+		margin: 0 auto;
+	}
+	.carousel-logo img {
+		width: 100%!important;
+	}
+	.contact-us .card {
+		margin-top: 30px;
+		padding: 5px 0px;
+	}
+	.contact-form input, .contact-form textarea {
+		padding: 10px 5px;
+		font-size: 13px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.fixed-top {
+		padding: 10px 10px;
+	}
+	.custom-slider img {
+		height: 300px;
+	}
+	.common-title {
+		margin-bottom: 20px;
+	}
+	.common-title h2 {
+	    font-size: 40px;
+	}
+	.common-title p {
+	    font-size: 14px;
+	}
+	.owl-carousel img {
+		width: 30%!important;
+	}
+	.service-content {
+		margin-top: 30px;
+	}
+	.project-content i {
+		margin-left: 10px;
+		font-size: 35px;
+	}
+	.project-content h2 {
+		font-size: 16px;
+		margin-bottom: 5px;
+		margin-left: 5px;
+	}
+	.project-content p {
+		font-size: 14px;
+		margin-bottom: 5px;
+		margin-left: 5px;
+	}
+	.testimonial-body {
+		width: 95%;
+		margin: 0 auto;
+	}
+	.carousel-logo img {
+		width: 100%!important;
+	}
+	.contact-us .card {
+		margin-top: 30px;
+		padding: 5px 0px;
+	}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.custom-slider img {
+		height: 250px;
+	}
+	.common-title h2 {
+	    font-size: 40px;
+	}
+	.common-title p {
+	    font-size: 14px;
+	}
+	.service-content p {
+		font-size: 12px;
+	}
+	.project-content i {
+		margin-left: 10px;
+		font-size: 40px;
+	}
+	.project-content p {
+		font-size: 12px;
+	}
+	.testimonial-body {
+		width: 95%;
+		margin: 0 auto;
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.navbar-nav .nav-link {
+	    color: #000;
+	    font-size: 14px;
+	}
+	.common-title h2 {
+	    font-size: 40px;
+	}
+	.common-title p {
+	    font-size: 14px;
+	}
+	.custom-slider img {
+		height: 350px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
